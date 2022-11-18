@@ -16,6 +16,7 @@ Based on the information given, break this ticket down into 2-5 individual ticke
 You will be graded on the level of detail in each ticket, the clarity of the execution plan within and between tickets, and the intelligibility of your language. You don't need to be a native English speaker, but please proof-read your work.
 
 ## Your Breakdown Here
-1 - Create a screen where the user can filter the agents by the facilities where they worked on. (Time: 30 mintues)
-2 - Make a list with all the agents in the chosen facility. (Time: 20 minutes)
-3 - In the list, will need to make a field where the user can input a custom id to the Agent and than save, directely in the list, don't need to create another screen to add this information. (Time: 20 minutes)
+
+- Create a screen where the user can filter the agents by the facilities where they worked on. (Time: 30 mintues)
+- Make a list with all the agents in the chosen facility. (Time: 20 minutes)
+- In the list, will need to make a field where the user can input a custom id to the Agent and than save, directely in the list, don't need to create another screen to add this information. (Time: 20 minutes)
