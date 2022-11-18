@@ -9,3 +9,4 @@ You've been asked to refactor the function `deterministicPartitionKey` in [`dpk.
 You will be graded on the exhaustiveness and quality of your unit tests, the depth of your refactor, and the level of insight into your thought process provided by the written explanation.
 
 ## Your Explanation Here
+- A lot of `if` and `else` conditions one inside another, also the spacing of the lines where a little bad. I did also a guard clause to whem not met a certain condition return the `TRIVIAL_PARTITION_KEY`.
